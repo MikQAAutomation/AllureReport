@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"93901ef61f4ea74de996f8cb5077ca3f","name":"P1 E2E Scenarios","statistic":{"failed":0,"broken":6,"skipped":0,"passed":17,"unknown":0,"total":23}},{"uid":"824a3f8d11e466c386434a113b2c29c6","name":"P0 E2E Scenarios","statistic":{"failed":0,"broken":3,"skipped":0,"passed":7,"unknown":0,"total":10}}]}
