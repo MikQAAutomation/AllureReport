@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"86136272f423561ad639b30c2bd14a7f","name":"Guest user E2E Scenarios","statistic":{"failed":0,"broken":3,"skipped":0,"passed":16,"unknown":0,"total":19}},{"uid":"6046576df30afbcb2708dfde46a3af9d","name":"Logged-in user E2E Scenarios","statistic":{"failed":0,"broken":2,"skipped":0,"passed":16,"unknown":0,"total":18}}]}
