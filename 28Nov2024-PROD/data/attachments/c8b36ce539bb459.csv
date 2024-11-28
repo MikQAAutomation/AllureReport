@@ -1,0 +1,9 @@
+TestCase Objective,TypeOfCard,NameonCard,CardNumber,ExpirationDate,CVV
+EmptyDebitCreditCard,CreditDebitCard,,,,
+InvalidLengthDebitCreditCard,CreditDebitCard,TestName,111,01/11,1
+InvalidTypeDebitCreditCard,CreditDebitCard,TestName,5780977109500227,09/11,1
+EmptyMIKCreditCard,MichaelsCreditCard,,,,
+InvalidLengthMIKCreditCard,MichaelsCreditCard,TestName,1 1 1,0 1 1 1,1
+InvalidTypeMIKCreditCard,MichaelsCreditCard,TestName,5 1 1 1 0 0 5 1 1 1 0 5 1 1 2 8,0 9 1 1,3
+EmptyGiftCard,GiftCard,,,,
+InvalidLengthGiftCard,GiftCard,TestName,111,01/11,1

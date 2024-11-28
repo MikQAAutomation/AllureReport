@@ -1,0 +1,10 @@
+SerialNumber,Email,Phone Number,First Name,Last Name,Password
+SL 1,abc@pc.com,9999999990,Test Valid Name,""" spaceInStart""",Less6
+SL 2,abc.com,0000000000,""" spaceInStart""",Test Valid Name,PasswordLengthGreater20
+SL 3,,1111111111,"""SpaceInEnd """,MiddleDouble  spaces,nouppercase05
+SL 4,@test.com,765765,MiddleDouble  spaces,,NOLOWERCASE05
+SL 5,abc@.com,231,,specialcharacter$,WithoutNumber
+SL 6,abc@test,1234567890,NameHavingMoreThanThirtyFiveCharacters,Number05,With Space03
+SL 7,abc@pc..com,765864654,specialcharacter#,NameHavingMoreThanThirtyFiveCharacters,
+SL 8,abc@p$c.com,,Number03,"""SpaceInEnd """,# $
+SL 9,existingEmail,9867679,123,456,789
