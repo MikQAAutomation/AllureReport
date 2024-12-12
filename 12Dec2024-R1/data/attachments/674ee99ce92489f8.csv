@@ -1,0 +1,7 @@
+Test Objective,Email,Password,Message
+InvalidEmail&PasswordCombination,<randomEmail>,pass123,The username or password entered do not match our records. Please try again.
+InvalidEmailFormat,michaelsqaautomation+555gmail.com,pass123,Please specify a valid email address.
+PasswordTooShort,email@email.com,pass,6-20 characters
+EmailMissing,,pass124,Please specify a valid email address.
+PasswordMissing,michaelsqaautomation+555@gmail.com,,Required
+PasswordTooLong,email@email.com,123456789012345678901,6-20 characters
